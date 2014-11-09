@@ -15,6 +15,6 @@ What could torrent sites be used for?
 
 Things to add:
 * A nice way edit the local storage.
-* A way to authentication people and list people as okay to edit.
+* A way to authentication people and list people as okay to propagate.
 * A way of listing public site for people without a domain name.
  
