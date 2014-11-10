@@ -14,6 +14,8 @@ What could torrent sites be used for?
 * A place for developers to work on projects that run locally and automatically sync with each other.
 
 Things to add:
+* A way to display a page through torrant like [webtorrent](https://github.com/feross/webtorrent)
+* A way to display a page through local storage.
 * A nice way edit the local storage. (Fork me I'm Yours)
 * A way to authentication people and list people as okay to propagate. 
   * Update from ... 
