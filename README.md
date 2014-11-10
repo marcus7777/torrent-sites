@@ -14,7 +14,10 @@ What could torrent sites be used for?
 * A place for developers to work on projects that run locally and automatically sync with each other.
 
 Things to add:
-* A nice way edit the local storage.
-* A way to authentication people and list people as okay to propagate.
+* A nice way edit the local storage. (Fork me I'm Yours)
+* A way to authentication people and list people as okay to propagate. 
+  * Update from ... 
+  * Review? 
+  * Apply? Always Yes No Never
 * A way of listing public site for people without a domain name.
  
