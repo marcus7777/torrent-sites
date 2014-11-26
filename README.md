@@ -13,7 +13,7 @@ What could torrent sites be used for?
 * A free hard to block hosting platform for all by all.
 * A place for developers to work on projects that run locally and automatically sync with each other.
 
-It name's "outtaSite". 
+Let name it "outtaSite". 
 
 Things to add:
 * A way to display a page through torrent (e.g. [webtorrent](https://github.com/feross/webtorrent))
