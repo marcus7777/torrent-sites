@@ -3,6 +3,8 @@ torrent-sites
 
 Using the torrent network to host websites
 
+[0 net](http://zeronet.io/)
+
 This project is to explore the possibility of hosting websites in an entirely decentralized way. Hosted by people visiting the website.
 
 I am very excited as I think its not far off now.
